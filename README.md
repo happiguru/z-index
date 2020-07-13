@@ -26,7 +26,7 @@ To get a local copy  and to set it up and running follow these simple example st
 - Browser
 - Internet
 
-- Download the code from repository (https://github.com/SunnySparks/Building-with-responsive-design) and double click the index.html file
+- Download the code from repository (https://github.com/happiguru/z-index) and double click the index.html file
 
 
 ## Authors
