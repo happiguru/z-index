@@ -1,7 +1,7 @@
 # Understanding how to implement z-index in complex situations
 Understanding Z-index
 
-![screenshot](app_screenshot.PNG)
+![screenshot](app_screenshot.png)
 
 
 ## Built With
